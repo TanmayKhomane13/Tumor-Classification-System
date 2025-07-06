@@ -1,6 +1,13 @@
-# Tumor-Classification-System
-This program implements a logistic regression model for tumor classification, where the goal is to predict whether a tumor is malignant or benign based on features like tumor size, age, and tumor density.
+🧠 Tumor Classification – Logistic Regression & CNN (X-ray)
 
+This program implements two approaches for tumor classification:
+- A logistic regression model that predicts whether a tumor is malignant or benign based on numerical features such as tumor size, patient age, and tumor density.
+- A Convolutional Neural Network (CNN) model trained on X-ray images to classify tumors without relying on structured data.
+
+The aim of this project is to explore and compare different approaches to medical image and feature-based classification, and to eventually integrate both types of inputs in a unified system.
+
+
+📄 Licensing & Usage
 This project is licensed under the Apache License 2.0.
 
 If you use this code in a research paper, academic project, or personal work:
